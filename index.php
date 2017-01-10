@@ -4,7 +4,7 @@ init();
 
 function init(){
 
-	echo "欢迎使用图书管理系统";
+	echo "娆㈣繋浣跨敤鏈郴缁燂紒";
 
 
 }
